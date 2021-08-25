@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My profile banner](/assets/profileBanner.jpg")
+![My profile banner](/profileBanner.jpg")
 
 
 
