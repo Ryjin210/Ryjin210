@@ -1,6 +1,5 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/77573336/130726998-dba03447-91e1-43f7-a5dc-8f867015f091.jpg"></p>
 
-<h3 align="center">Hi there! :bowtie:</h3>
 <p align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="25" height="25"/> &nbsp
 <img src="https://emojis.slackmojis.com/emojis/images/1571246183/6694/party_cat.gif?1571246183" width="25" height="25"/> &nbsp
@@ -26,6 +25,8 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1571246183/6694/party_cat.gif?1571246183" width="25" height="25"/>
 </p>
 
+<h3 align="center">Hi there! :bowtie:</h3>
+
 _________________
 
 <h3 align="center">About Me</h3>
@@ -34,7 +35,7 @@ _________________
 
 _________________
 
-<h3 align="center">Feel free to reach me at:</h3>
+<h3 align="center">You can reach me at:</h3>
 
 <p align="center"><a href="https://www.facebook.com/Ryjin210/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/mark-ryan-jancorda-6916a6204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -43,10 +44,35 @@ _________________
 
 _________________
 
-<div align="left"></div> <div align="right"></div>
 
-
-
+<table align="center" width="100%">
+  <tr>
+  <td>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryjin210&theme=tokyonight_duo">
+  </td>
+  <td> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Ryjin210&show_icons=true&theme=tokyonight">
+  </td>
+  </tr>  
+  </table>
+<table align="center" width="100%">
+ <tr>      
+    <td align="center">
+      <h3>Editing tools</h3>
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+      <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+      <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+      <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+      <hr>
+      <h3 align="center">Spreadsheet tools and IDE</h3>      
+      <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+      <hr>
+    </td>
+    </tr>
+</table>
 
 
 
