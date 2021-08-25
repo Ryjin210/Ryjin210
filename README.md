@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My profile banner](/profileBanner.jpg")
+![My profile banner](Ryjin210/profileBanner.jpg")
 
 
 
