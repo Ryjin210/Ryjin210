@@ -31,7 +31,7 @@ _________________
 
 <h3 align="center">About Me</h3>
 
-<p align="center">I'm Mark Ryan Jancorda, i go by the alias "Ryjin210". I'm 21 years old and currently taking Bachelor of Science in Information and Technology at Cavite State University. My dream in life is to become a premiere field engineer and be a part of a Developer Relations Team. I joined GitHub because i want to learn how open source works and how can i contribute in different kinds of projects. as of now i am a part of SurPath Hub Community's Core and Education team and a community member at EddieHub Community. <br>Feel free to have a look around my profile! :))</p>
+<p align="center">I'm Mark Ryan Jancorda, i go by the alias "Ryjin210". I'm 21 years old and currently taking Bachelor of Science in Information and Technology at Cavite State University. My dream in life is to become a premiere field engineer and be a part of a Developer Relations Team. I joined GitHub to learn how open source works and contribute in different kinds of projects. as of now i am a community manager and a part of SurPath Hub Community's Head of User's Support. I'm also a community member at EddieHub Community. <br>Feel free to have a look around my profile! :))</p>
 
 _________________
 
