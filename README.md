@@ -1,37 +1,22 @@
 [![An image of @ryjin210's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ryjin210)](https://holopin.io/@ryjin210)
 
-<p align="center">
-<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1571246183/6694/party_cat.gif?1571246183" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1571246183/6694/party_cat.gif?1571246183" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1571246183/6694/party_cat.gif?1571246183" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1571246183/6694/party_cat.gif?1571246183" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1571246183/6694/party_cat.gif?1571246183" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1571246183/6694/party_cat.gif?1571246183" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1571246183/6694/party_cat.gif?1571246183" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1571246183/6694/party_cat.gif?1571246183" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1571246183/6694/party_cat.gif?1571246183" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1571246183/6694/party_cat.gif?1571246183" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="25" height="25"/> &nbsp
-<img src="https://emojis.slackmojis.com/emojis/images/1571246183/6694/party_cat.gif?1571246183" width="25" height="25"/>
-</p>
-
-<h3 align="center">Hi there! :bowtie:</h3>
-
 _________________
 
-<h3 align="center">About Me</h3>
+<h3>About Me</h3>
 
-<p align="center">I'm Mark Ryan Jancorda, i go by the alias "Ryjin210". I'm 23 years old and currently taking Bachelor of Science in Information and Technology at Cavite State University. My dream in life is to become a premiere field engineer and be a part of a Developer Relations Team. I joined GitHub to learn how open source works and contribute in different kinds of projects. as of now i am a Community Manager and a part of SurPath Hub Community's Head of User's Support. I'm also a community member of EddieHub Community and Web3 Community. <br>Feel free to have a look around my profile! :))</p>
+<p>📛 I'm Mark Ryan Jancorda a.k.a Ryjin210</p>
+<p> 🧑 Pronouns: He/Him </p>
+<p>🏫 Studies Bachelor of Science in Information Technology at Cavite State University Bacoor Campus</p>
+<p>🏠 Bacoor Cavite, Philippines</p>
+
+<br>
+
+<h3><b>Organizations I'm taking part of:</b></h3>
+<p>☂️ GitHub Field Day Core Team (<b>Core Team Lead</b>)</p>
+<p>🚩 GitHub Campus Expert (<b>Since January 2021</b>)</p>
+<p>✅ SurPath Hub Community (<b>Community Manager</b>)</p>
+<p>✅ WebXD DAO (<b>Community Contributor</b>)</p>
+<p>✅ Open Source Software PH (<b>Community Contributor</b>)</p>
 
 _________________
 
