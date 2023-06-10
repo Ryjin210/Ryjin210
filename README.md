@@ -2,7 +2,7 @@
 
 _________________
 
-<h3>About Me</h3>
+<h2>About Me</h2>
 
 <p>📛 I'm Mark Ryan Jancorda a.k.a Ryjin210</p>
 <p> 🧑 Pronouns: He/Him </p>
@@ -11,7 +11,7 @@ _________________
 
 <br>
 
-<h3><b>Organizations I'm taking part of:</b></h3>
+<h2><b>Organizations I'm taking part of:</b></h2>
 <p>☂️ GitHub Field Day Core Team (<b>Core Team Lead</b>)</p>
 <p>🚩 GitHub Campus Expert (<b>Since January 2021</b>)</p>
 <p>✅ SurPath Hub Community (<b>Community Manager</b>)</p>
