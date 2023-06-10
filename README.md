@@ -15,7 +15,7 @@ _________________
 <p>☂️ GitHub Field Day Core Team (<b>Core Team Lead</b>)</p>
 <p>🚩 GitHub Campus Expert (<b>Since January 2021</b>)</p>
 <p>✅ SurPath Hub Community (<b>Community Manager</b>)</p>
-<p>✅ WebXD DAO (<b>Community Contributor</b>)</p>
+<p>✅ WebX DAO (<b>Community Contributor</b>)</p>
 <p>✅ Open Source Software PH (<b>Community Contributor</b>)</p>
 
 _________________
