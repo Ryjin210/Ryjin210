@@ -1,4 +1,4 @@
-<p align="center">[![An image of @ryjin210's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ryjin210)](https://holopin.io/@ryjin210)</p>
+[![An image of @ryjin210's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ryjin210)](https://holopin.io/@ryjin210)
 
 <p align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="25" height="25"/> &nbsp
