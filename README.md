@@ -63,7 +63,7 @@ _________________
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryjin210&theme=tokyonight">        
     </td>
     <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryjin210&repo=TechGeeksHub&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryjin210&repo=ryjinportfolio&theme=tokyonight">
       </td>
   </tr>
   </table>
